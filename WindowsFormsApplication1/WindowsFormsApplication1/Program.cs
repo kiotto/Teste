@@ -18,7 +18,7 @@ namespace WindowsFormsApplication1
             Application.Run(new Form1());
 
 
-            Console.WriteLine("sdfsdfsdf");
+         
         }
     }
 }
